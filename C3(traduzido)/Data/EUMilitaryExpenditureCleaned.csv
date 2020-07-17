@@ -1,0 +1,813 @@
+country,countryCode,year,value
+Austria                                           ,AT,1990,1972.7
+Austria                                           ,AT,1991,1994.1
+Austria                                           ,AT,1992,2139.9
+Austria                                           ,AT,1993,2115.1
+Austria                                           ,AT,1994,2227.6
+Austria                                           ,AT,1995,2557.8
+Austria                                           ,AT,1996,2457.9
+Austria                                           ,AT,1997,2164.8
+Austria                                           ,AT,1998,2159.8
+Austria                                           ,AT,1999,2124.4
+Austria                                           ,AT,2000,1925.6
+Austria                                           ,AT,2001,1788.8
+Austria                                           ,AT,2002,1881.7
+Austria                                           ,AT,2003,2382
+Austria                                           ,AT,2004,2679.3
+Austria                                           ,AT,2005,2686.2
+Austria                                           ,AT,2006,2640.2
+Austria                                           ,AT,2007,3499.8
+Austria                                           ,AT,2008,3746.7
+Austria                                           ,AT,2009,3334.8
+Austria                                           ,AT,2010,3218.4
+Austria                                           ,AT,2011,3409.7
+Austria                                           ,AT,2012,3187.2
+Austria                                           ,AT,2013,3229.1
+Austria                                           ,AT,2014,3305.2
+Austria                                           ,AT,2015,2665.4
+Austria                                           ,AT,2016,2885.9
+Austria                                           ,AT,2017,3138.4
+Austria                                           ,AT,2018,3367.5
+Belgium                                           ,BE,1990,4644.3
+Belgium                                           ,BE,1991,4624.5
+Belgium                                           ,BE,1992,4131.3
+Belgium                                           ,BE,1993,3746
+Belgium                                           ,BE,1994,3944.1
+Belgium                                           ,BE,1995,4449
+Belgium                                           ,BE,1996,4241.9
+Belgium                                           ,BE,1997,3684.1
+Belgium                                           ,BE,1998,3664.3
+Belgium                                           ,BE,1999,3598.4
+Belgium                                           ,BE,2000,3190.8
+Belgium                                           ,BE,2001,3036
+Belgium                                           ,BE,2002,3147.1
+Belgium                                           ,BE,2003,3875.7
+Belgium                                           ,BE,2004,4262.7
+Belgium                                           ,BE,2005,4228.2
+Belgium                                           ,BE,2006,4307.9
+Belgium                                           ,BE,2007,5164
+Belgium                                           ,BE,2008,6295.8
+Belgium                                           ,BE,2009,5620.7
+Belgium                                           ,BE,2010,5244.7
+Belgium                                           ,BE,2011,5499.4
+Belgium                                           ,BE,2012,5169
+Belgium                                           ,BE,2013,5263.2
+Belgium                                           ,BE,2014,5191.5
+Belgium                                           ,BE,2015,4202.1
+Belgium                                           ,BE,2016,4314.1
+Belgium                                           ,BE,2017,4484.7
+Belgium                                           ,BE,2018,4959.7
+Bulgaria                                          ,BG,1990,794.5
+Bulgaria                                          ,BG,1991,232.2
+Bulgaria                                          ,BG,1992,255.8
+Bulgaria                                          ,BG,1993,282.7
+Bulgaria                                          ,BG,1994,242
+Bulgaria                                          ,BG,1995,311.1
+Bulgaria                                          ,BG,1996,213.6
+Bulgaria                                          ,BG,1997,244.4
+Bulgaria                                          ,BG,1998,320.4
+Bulgaria                                          ,BG,1999,357.2
+Bulgaria                                          ,BG,2000,351.3
+Bulgaria                                          ,BG,2001,406
+Bulgaria                                          ,BG,2002,456
+Bulgaria                                          ,BG,2003,569.1
+Bulgaria                                          ,BG,2004,650.7
+Bulgaria                                          ,BG,2005,699.4
+Bulgaria                                          ,BG,2006,751
+Bulgaria                                          ,BG,2007,1032.2
+Bulgaria                                          ,BG,2008,1038.1
+Bulgaria                                          ,BG,2009,963.3
+Bulgaria                                          ,BG,2010,893.5
+Bulgaria                                          ,BG,2011,829
+Bulgaria                                          ,BG,2012,807.5
+Bulgaria                                          ,BG,2013,899.6
+Bulgaria                                          ,BG,2014,835.7
+Bulgaria                                          ,BG,2015,660.8
+Bulgaria                                          ,BG,2016,755.4
+Bulgaria                                          ,BG,2017,824.2
+Bulgaria                                          ,BG,2018,1095.6
+Croatia                                           ,HR,1990,782
+Croatia                                           ,HR,1991,782
+Croatia                                           ,HR,1992,782
+Croatia                                           ,HR,1993,1168.9
+Croatia                                           ,HR,1994,1625.2
+Croatia                                           ,HR,1995,2060.4
+Croatia                                           ,HR,1996,1938.7
+Croatia                                           ,HR,1997,1797.2
+Croatia                                           ,HR,1998,1427.3
+Croatia                                           ,HR,1999,1035.9
+Croatia                                           ,HR,2000,659.8
+Croatia                                           ,HR,2001,629.5
+Croatia                                           ,HR,2002,733.7
+Croatia                                           ,HR,2003,709.4
+Croatia                                           ,HR,2004,730.9
+Croatia                                           ,HR,2005,799.2
+Croatia                                           ,HR,2006,849.4
+Croatia                                           ,HR,2007,978.9
+Croatia                                           ,HR,2008,1296
+Croatia                                           ,HR,2009,1129.1
+Croatia                                           ,HR,2010,1015.9
+Croatia                                           ,HR,2011,1106.5
+Croatia                                           ,HR,2012,955.3
+Croatia                                           ,HR,2013,957
+Croatia                                           ,HR,2014,906.6
+Croatia                                           ,HR,2015,753.5
+Croatia                                           ,HR,2016,702
+Croatia                                           ,HR,2017,784.3
+Croatia                                           ,HR,2018,889.5
+Cyprus                                            ,CY,1990,411.4
+Cyprus                                            ,CY,1991,418.4
+Cyprus                                            ,CY,1992,630.1
+Cyprus                                            ,CY,1993,268.3
+Cyprus                                            ,CY,1994,298.5
+Cyprus                                            ,CY,1995,298.8
+Cyprus                                            ,CY,1996,448.1
+Cyprus                                            ,CY,1997,534.1
+Cyprus                                            ,CY,1998,483.7
+Cyprus                                            ,CY,1999,290
+Cyprus                                            ,CY,2000,281.2
+Cyprus                                            ,CY,2001,327.6
+Cyprus                                            ,CY,2002,242.5
+Cyprus                                            ,CY,2003,288.4
+Cyprus                                            ,CY,2004,338.5
+Cyprus                                            ,CY,2005,380.9
+Cyprus                                            ,CY,2006,387.7
+Cyprus                                            ,CY,2007,405.2
+Cyprus                                            ,CY,2008,453.8
+Cyprus                                            ,CY,2009,471.4
+Cyprus                                            ,CY,2010,477.6
+Cyprus                                            ,CY,2011,479.7
+Cyprus                                            ,CY,2012,414.5
+Cyprus                                            ,CY,2013,384.9
+Cyprus                                            ,CY,2014,357.8
+Cyprus                                            ,CY,2015,327.9
+Cyprus                                            ,CY,2016,295.4
+Cyprus                                            ,CY,2017,357.4
+Cyprus                                            ,CY,2018,381.9
+Czech Republic                                    ,CZ,1990,815.6
+Czech Republic                                    ,CZ,1991,815.6
+Czech Republic                                    ,CZ,1992,815.6
+Czech Republic                                    ,CZ,1993,815.6
+Czech Republic                                    ,CZ,1994,938.3
+Czech Republic                                    ,CZ,1995,1065.4
+Czech Republic                                    ,CZ,1996,1123.9
+Czech Republic                                    ,CZ,1997,988.3
+Czech Republic                                    ,CZ,1998,1166.1
+Czech Republic                                    ,CZ,1999,1205.9
+Czech Republic                                    ,CZ,2000,1157.3
+Czech Republic                                    ,CZ,2001,1182.5
+Czech Republic                                    ,CZ,2002,1494.4
+Czech Republic                                    ,CZ,2003,1885.7
+Czech Republic                                    ,CZ,2004,2042.1
+Czech Republic                                    ,CZ,2005,2439.5
+Czech Republic                                    ,CZ,2006,2450
+Czech Republic                                    ,CZ,2007,2707.7
+Czech Republic                                    ,CZ,2008,2918.7
+Czech Republic                                    ,CZ,2009,2718.6
+Czech Republic                                    ,CZ,2010,2497.9
+Czech Republic                                    ,CZ,2011,2474.3
+Czech Republic                                    ,CZ,2012,2220.6
+Czech Republic                                    ,CZ,2013,2148.8
+Czech Republic                                    ,CZ,2014,2022.9
+Czech Republic                                    ,CZ,2015,1779.9
+Czech Republic                                    ,CZ,2016,1954.9
+Czech Republic                                    ,CZ,2017,2077.7
+Czech Republic                                    ,CZ,2018,2710
+Denmark                                           ,DK,1990,2649.9
+Denmark                                           ,DK,1991,2671.9
+Denmark                                           ,DK,1992,2837.7
+Denmark                                           ,DK,1993,2682
+Denmark                                           ,DK,1994,2718.8
+Denmark                                           ,DK,1995,3118
+Denmark                                           ,DK,1996,3086.2
+Denmark                                           ,DK,1997,2804.3
+Denmark                                           ,DK,1998,2846.1
+Denmark                                           ,DK,1999,2784.9
+Denmark                                           ,DK,2000,2392.5
+Denmark                                           ,DK,2001,2525.2
+Denmark                                           ,DK,2002,2694.1
+Denmark                                           ,DK,2003,3199.2
+Denmark                                           ,DK,2004,3578.8
+Denmark                                           ,DK,2005,3468.5
+Denmark                                           ,DK,2006,3896.7
+Denmark                                           ,DK,2007,4175.7
+Denmark                                           ,DK,2008,4788
+Denmark                                           ,DK,2009,4337.4
+Denmark                                           ,DK,2010,4503.5
+Denmark                                           ,DK,2011,4518.6
+Denmark                                           ,DK,2012,4422.5
+Denmark                                           ,DK,2013,4216.6
+Denmark                                           ,DK,2014,4056.9
+Denmark                                           ,DK,2015,3364
+Denmark                                           ,DK,2016,3592.7
+Denmark                                           ,DK,2017,3764
+Denmark                                           ,DK,2018,4228.2
+Estonia                                           ,EE,1990,13.1
+Estonia                                           ,EE,1991,13.1
+Estonia                                           ,EE,1992,13.1
+Estonia                                           ,EE,1993,13.1
+Estonia                                           ,EE,1994,25.1
+Estonia                                           ,EE,1995,36.3
+Estonia                                           ,EE,1996,41.4
+Estonia                                           ,EE,1997,53
+Estonia                                           ,EE,1998,59.9
+Estonia                                           ,EE,1999,73.8
+Estonia                                           ,EE,2000,78.3
+Estonia                                           ,EE,2001,93.8
+Estonia                                           ,EE,2002,122.1
+Estonia                                           ,EE,2003,171.4
+Estonia                                           ,EE,2004,205
+Estonia                                           ,EE,2005,266
+Estonia                                           ,EE,2006,315.2
+Estonia                                           ,EE,2007,444.2
+Estonia                                           ,EE,2008,505.8
+Estonia                                           ,EE,2009,434.3
+Estonia                                           ,EE,2010,332.2
+Estonia                                           ,EE,2011,389.2
+Estonia                                           ,EE,2012,436.9
+Estonia                                           ,EE,2013,479.3
+Estonia                                           ,EE,2014,512.1
+Estonia                                           ,EE,2015,463.6
+Estonia                                           ,EE,2016,497.7
+Estonia                                           ,EE,2017,537.4
+Estonia                                           ,EE,2018,618.5
+Finland                                           ,FI,1990,2141.3
+Finland                                           ,FI,1991,2201
+Finland                                           ,FI,1992,2076
+Finland                                           ,FI,1993,1615.4
+Finland                                           ,FI,1994,1756.3
+Finland                                           ,FI,1995,1909
+Finland                                           ,FI,1996,2021.8
+Finland                                           ,FI,1997,1947
+Finland                                           ,FI,1998,1959.7
+Finland                                           ,FI,1999,1653.9
+Finland                                           ,FI,2000,1558.1
+Finland                                           ,FI,2001,1479.3
+Finland                                           ,FI,2002,1611.4
+Finland                                           ,FI,2003,2475.1
+Finland                                           ,FI,2004,2892.9
+Finland                                           ,FI,2005,2999.4
+Finland                                           ,FI,2006,3128.5
+Finland                                           ,FI,2007,3296.6
+Finland                                           ,FI,2008,3958.1
+Finland                                           ,FI,2009,3940.6
+Finland                                           ,FI,2010,3717.2
+Finland                                           ,FI,2011,4099.5
+Finland                                           ,FI,2012,3943.2
+Finland                                           ,FI,2013,4161.1
+Finland                                           ,FI,2014,3985.5
+Finland                                           ,FI,2015,3399.1
+Finland                                           ,FI,2016,3415
+Finland                                           ,FI,2017,3430
+Finland                                           ,FI,2018,3849
+France                                            ,FR,1990,42589.9
+France                                            ,FR,1991,42702.6
+France                                            ,FR,1992,45123.1
+France                                            ,FR,1993,42590.9
+France                                            ,FR,1994,44392.5
+France                                            ,FR,1995,47768.1
+France                                            ,FR,1996,46403.4
+France                                            ,FR,1997,41308.3
+France                                            ,FR,1998,40041.1
+France                                            ,FR,1999,38897.2
+France                                            ,FR,2000,33814.3
+France                                            ,FR,2001,33276.7
+France                                            ,FR,2002,36403.9
+France                                            ,FR,2003,45917
+France                                            ,FR,2004,53007
+France                                            ,FR,2005,52908.8
+France                                            ,FR,2006,54516.1
+France                                            ,FR,2007,60595
+France                                            ,FR,2008,66009.4
+France                                            ,FR,2009,66884
+France                                            ,FR,2010,61781.7
+France                                            ,FR,2011,64600.9
+France                                            ,FR,2012,60035.2
+France                                            ,FR,2013,62417.1
+France                                            ,FR,2014,63613.6
+France                                            ,FR,2015,55342.1
+France                                            ,FR,2016,57358.4
+France                                            ,FR,2017,60417.5
+France                                            ,FR,2018,63799.7
+Germany                                           ,DE,1990,42318.8
+Germany                                           ,DE,1991,39516.3
+Germany                                           ,DE,1992,41965.8
+Germany                                           ,DE,1993,37215.1
+Germany                                           ,DE,1994,36330.3
+Germany                                           ,DE,1995,41158.7
+Germany                                           ,DE,1996,38989.9
+Germany                                           ,DE,1997,33217.6
+Germany                                           ,DE,1998,33146.5
+Germany                                           ,DE,1999,32604
+Germany                                           ,DE,2000,28150
+Germany                                           ,DE,2001,27425.3
+Germany                                           ,DE,2002,29333.2
+Germany                                           ,DE,2003,35055.1
+Germany                                           ,DE,2004,38007.6
+Germany                                           ,DE,2005,38054
+Germany                                           ,DE,2006,38092.4
+Germany                                           ,DE,2007,42551.9
+Germany                                           ,DE,2008,48081.4
+Germany                                           ,DE,2009,47470.1
+Germany                                           ,DE,2010,46255.5
+Germany                                           ,DE,2011,48140.3
+Germany                                           ,DE,2012,46470.9
+Germany                                           ,DE,2013,45930.5
+Germany                                           ,DE,2014,46102.7
+Germany                                           ,DE,2015,39812.6
+Germany                                           ,DE,2016,41579.5
+Germany                                           ,DE,2017,45381.7
+Germany                                           ,DE,2018,49470.6
+Greece                                            ,GR,1990,3193.4
+Greece                                            ,GR,1991,3146.9
+Greece                                            ,GR,1992,3623.1
+Greece                                            ,GR,1993,3364.4
+Greece                                            ,GR,1994,3587.2
+Greece                                            ,GR,1995,4179.9
+Greece                                            ,GR,1996,4613.2
+Greece                                            ,GR,1997,4573.5
+Greece                                            ,GR,1998,4824.3
+Greece                                            ,GR,1999,5012.3
+Greece                                            ,GR,2000,4564.5
+Greece                                            ,GR,2001,4428.1
+Greece                                            ,GR,2002,4734.2
+Greece                                            ,GR,2003,5035.6
+Greece                                            ,GR,2004,6267.5
+Greece                                            ,GR,2005,7028.4
+Greece                                            ,GR,2006,7607.2
+Greece                                            ,GR,2007,8533.1
+Greece                                            ,GR,2008,10574.1
+Greece                                            ,GR,2009,10641.3
+Greece                                            ,GR,2010,8163.6
+Greece                                            ,GR,2011,7128.6
+Greece                                            ,GR,2012,5915
+Greece                                            ,GR,2013,5655.2
+Greece                                            ,GR,2014,5531.3
+Greece                                            ,GR,2015,4818.1
+Greece                                            ,GR,2016,4963.5
+Greece                                            ,GR,2017,5093.8
+Greece                                            ,GR,2018,5227.2
+Hungary                                           ,HU,1990,847.4
+Hungary                                           ,HU,1991,722.5
+Hungary                                           ,HU,1992,812
+Hungary                                           ,HU,1993,735.9
+Hungary                                           ,HU,1994,757.1
+Hungary                                           ,HU,1995,612.2
+Hungary                                           ,HU,1996,585.3
+Hungary                                           ,HU,1997,696
+Hungary                                           ,HU,1998,618.5
+Hungary                                           ,HU,1999,702.9
+Hungary                                           ,HU,2000,715.9
+Hungary                                           ,HU,2001,845.1
+Hungary                                           ,HU,2002,1079.2
+Hungary                                           ,HU,2003,1401.6
+Hungary                                           ,HU,2004,1532.6
+Hungary                                           ,HU,2005,1596.1
+Hungary                                           ,HU,2006,1410.1
+Hungary                                           ,HU,2007,1776.5
+Hungary                                           ,HU,2008,1867.9
+Hungary                                           ,HU,2009,1475.8
+Hungary                                           ,HU,2010,1350.8
+Hungary                                           ,HU,2011,1472.1
+Hungary                                           ,HU,2012,1322.3
+Hungary                                           ,HU,2013,1280.1
+Hungary                                           ,HU,2014,1209.8
+Hungary                                           ,HU,2015,1132.5
+Hungary                                           ,HU,2016,1288.7
+Hungary                                           ,HU,2017,1463
+Hungary                                           ,HU,2018,1642.3
+Ireland                                           ,IE,1990,594
+Ireland                                           ,IE,1991,624.9
+Ireland                                           ,IE,1992,674
+Ireland                                           ,IE,1993,597.7
+Ireland                                           ,IE,1994,633.7
+Ireland                                           ,IE,1995,702
+Ireland                                           ,IE,1996,751
+Ireland                                           ,IE,1997,765.3
+Ireland                                           ,IE,1998,742.4
+Ireland                                           ,IE,1999,741.5
+Ireland                                           ,IE,2000,694.7
+Ireland                                           ,IE,2001,767.8
+Ireland                                           ,IE,2002,811.3
+Ireland                                           ,IE,2003,965.2
+Ireland                                           ,IE,2004,1101.9
+Ireland                                           ,IE,2005,1145
+Ireland                                           ,IE,2006,1190.4
+Ireland                                           ,IE,2007,1372.2
+Ireland                                           ,IE,2008,1582.9
+Ireland                                           ,IE,2009,1415.7
+Ireland                                           ,IE,2010,1274.2
+Ireland                                           ,IE,2011,1300.3
+Ireland                                           ,IE,2012,1157.5
+Ireland                                           ,IE,2013,1195.8
+Ireland                                           ,IE,2014,1192.7
+Ireland                                           ,IE,2015,997
+Ireland                                           ,IE,2016,1001.6
+Ireland                                           ,IE,2017,1025.1
+Ireland                                           ,IE,2018,1207.6
+Italy                                             ,IT,1990,20734.6
+Italy                                             ,IT,1991,21585.7
+Italy                                             ,IT,1992,22177.1
+Italy                                             ,IT,1993,18242
+Italy                                             ,IT,1994,18062.5
+Italy                                             ,IT,1995,17185.9
+Italy                                             ,IT,1996,20793.1
+Italy                                             ,IT,1997,20156.1
+Italy                                             ,IT,1998,20825.1
+Italy                                             ,IT,1999,21016.5
+Italy                                             ,IT,2000,19878.7
+Italy                                             ,IT,2001,19519.4
+Italy                                             ,IT,2002,21610.1
+Italy                                             ,IT,2003,26824.2
+Italy                                             ,IT,2004,30261.1
+Italy                                             ,IT,2005,29737.6
+Italy                                             ,IT,2006,29633
+Italy                                             ,IT,2007,31982.4
+Italy                                             ,IT,2008,36840
+Italy                                             ,IT,2009,34054.5
+Italy                                             ,IT,2010,32020.8
+Italy                                             ,IT,2011,33828.8
+Italy                                             ,IT,2012,29781
+Italy                                             ,IT,2013,29957.4
+Italy                                             ,IT,2014,27701
+Italy                                             ,IT,2015,22180.8
+Italy                                             ,IT,2016,25033
+Italy                                             ,IT,2017,26447.9
+Italy                                             ,IT,2018,27807.5
+Latvia                                            ,LV,1990,17.7
+Latvia                                            ,LV,1991,17.7
+Latvia                                            ,LV,1992,17.7
+Latvia                                            ,LV,1993,17.7
+Latvia                                            ,LV,1994,33.9
+Latvia                                            ,LV,1995,43.6
+Latvia                                            ,LV,1996,38.2
+Latvia                                            ,LV,1997,38
+Latvia                                            ,LV,1998,42.2
+Latvia                                            ,LV,1999,56.6
+Latvia                                            ,LV,2000,70
+Latvia                                            ,LV,2001,87
+Latvia                                            ,LV,2002,147.2
+Latvia                                            ,LV,2003,189.1
+Latvia                                            ,LV,2004,229.4
+Latvia                                            ,LV,2005,272.6
+Latvia                                            ,LV,2006,367.8
+Latvia                                            ,LV,2007,481.5
+Latvia                                            ,LV,2008,581.8
+Latvia                                            ,LV,2009,363.8
+Latvia                                            ,LV,2010,259.7
+Latvia                                            ,LV,2011,296.8
+Latvia                                            ,LV,2012,255.7
+Latvia                                            ,LV,2013,283.6
+Latvia                                            ,LV,2014,295.7
+Latvia                                            ,LV,2015,282.7
+Latvia                                            ,LV,2016,406.9
+Latvia                                            ,LV,2017,509.4
+Latvia                                            ,LV,2018,679.9
+Lithuania                                         ,LT,1990,20.8
+Lithuania                                         ,LT,1991,20.8
+Lithuania                                         ,LT,1992,20.8
+Lithuania                                         ,LT,1993,20.8
+Lithuania                                         ,LT,1994,21.1
+Lithuania                                         ,LT,1995,30.5
+Lithuania                                         ,LT,1996,42.3
+Lithuania                                         ,LT,1997,75.6
+Lithuania                                         ,LT,1998,138.2
+Lithuania                                         ,LT,1999,106.5
+Lithuania                                         ,LT,2000,140.4
+Lithuania                                         ,LT,2001,166.9
+Lithuania                                         ,LT,2002,181.5
+Lithuania                                         ,LT,2003,210.8
+Lithuania                                         ,LT,2004,270.8
+Lithuania                                         ,LT,2005,303.8
+Lithuania                                         ,LT,2006,351.6
+Lithuania                                         ,LT,2007,442
+Lithuania                                         ,LT,2008,541.4
+Lithuania                                         ,LT,2009,404.8
+Lithuania                                         ,LT,2010,326.3
+Lithuania                                         ,LT,2011,344.6
+Lithuania                                         ,LT,2012,328.6
+Lithuania                                         ,LT,2013,354.9
+Lithuania                                         ,LT,2014,426.9
+Lithuania                                         ,LT,2015,471.2
+Lithuania                                         ,LT,2016,635.4
+Lithuania                                         ,LT,2017,812.1
+Lithuania                                         ,LT,2018,1030.4
+Luxembourg                                        ,LU,1990,96.7
+Luxembourg                                        ,LU,1991,107.7
+Luxembourg                                        ,LU,1992,123.2
+Luxembourg                                        ,LU,1993,108.1
+Luxembourg                                        ,LU,1994,126
+Luxembourg                                        ,LU,1995,142.3
+Luxembourg                                        ,LU,1996,141.5
+Luxembourg                                        ,LU,1997,134.1
+Luxembourg                                        ,LU,1998,143.1
+Luxembourg                                        ,LU,1999,140.8
+Luxembourg                                        ,LU,2000,128.2
+Luxembourg                                        ,LU,2001,160.3
+Luxembourg                                        ,LU,2002,153.4
+Luxembourg                                        ,LU,2003,198.6
+Luxembourg                                        ,LU,2004,234.7
+Luxembourg                                        ,LU,2005,243.7
+Luxembourg                                        ,LU,2006,247.1
+Luxembourg                                        ,LU,2007,286.1
+Luxembourg                                        ,LU,2008,236.7
+Luxembourg                                        ,LU,2009,223
+Luxembourg                                        ,LU,2010,274.1
+Luxembourg                                        ,LU,2011,257
+Luxembourg                                        ,LU,2012,237.5
+Luxembourg                                        ,LU,2013,258.7
+Luxembourg                                        ,LU,2014,279
+Luxembourg                                        ,LU,2015,276.1
+Luxembourg                                        ,LU,2016,260.7
+Luxembourg                                        ,LU,2017,357.7
+Luxembourg                                        ,LU,2018,419.4
+Malta                                             ,MT,1990,21.2
+Malta                                             ,MT,1991,21.7
+Malta                                             ,MT,1992,26.7
+Malta                                             ,MT,1993,24.6
+Malta                                             ,MT,1994,27.9
+Malta                                             ,MT,1995,31.1
+Malta                                             ,MT,1996,33.3
+Malta                                             ,MT,1997,31.1
+Malta                                             ,MT,1998,29.1
+Malta                                             ,MT,1999,28
+Malta                                             ,MT,2000,25.4
+Malta                                             ,MT,2001,27.1
+Malta                                             ,MT,2002,28.4
+Malta                                             ,MT,2003,34.1
+Malta                                             ,MT,2004,40.5
+Malta                                             ,MT,2005,52.5
+Malta                                             ,MT,2006,44.4
+Malta                                             ,MT,2007,49.3
+Malta                                             ,MT,2008,56
+Malta                                             ,MT,2009,59.1
+Malta                                             ,MT,2010,58.7
+Malta                                             ,MT,2011,55.9
+Malta                                             ,MT,2012,49.9
+Malta                                             ,MT,2013,53.8
+Malta                                             ,MT,2014,56.5
+Malta                                             ,MT,2015,51.8
+Malta                                             ,MT,2016,59.7
+Malta                                             ,MT,2017,64.2
+Malta                                             ,MT,2018,69.3
+Netherlands                                       ,NL,1990,7420.8
+Netherlands                                       ,NL,1991,7246.2
+Netherlands                                       ,NL,1992,7904.6
+Netherlands                                       ,NL,1993,7054.9
+Netherlands                                       ,NL,1994,7137.4
+Netherlands                                       ,NL,1995,8011.5
+Netherlands                                       ,NL,1996,7829
+Netherlands                                       ,NL,1997,6839.1
+Netherlands                                       ,NL,1998,6836.1
+Netherlands                                       ,NL,1999,7026.4
+Netherlands                                       ,NL,2000,5971.8
+Netherlands                                       ,NL,2001,6200.4
+Netherlands                                       ,NL,2002,6728.2
+Netherlands                                       ,NL,2003,8356.3
+Netherlands                                       ,NL,2004,9377.1
+Netherlands                                       ,NL,2005,9567
+Netherlands                                       ,NL,2006,10217.8
+Netherlands                                       ,NL,2007,11480.4
+Netherlands                                       ,NL,2008,12374.8
+Netherlands                                       ,NL,2009,12131.8
+Netherlands                                       ,NL,2010,11220.5
+Netherlands                                       ,NL,2011,11647.9
+Netherlands                                       ,NL,2012,10364.7
+Netherlands                                       ,NL,2013,10226.3
+Netherlands                                       ,NL,2014,10332.6
+Netherlands                                       ,NL,2015,8667.8
+Netherlands                                       ,NL,2016,9115.2
+Netherlands                                       ,NL,2017,9580.7
+Netherlands                                       ,NL,2018,11242.8
+Poland                                            ,PL,1990,1540.7
+Poland                                            ,PL,1991,1722
+Poland                                            ,PL,1992,1881.9
+Poland                                            ,PL,1993,2123.4
+Poland                                            ,PL,1994,2251.9
+Poland                                            ,PL,1995,2719.4
+Poland                                            ,PL,1996,3083.4
+Poland                                            ,PL,1997,3192.3
+Poland                                            ,PL,1998,3491
+Poland                                            ,PL,1999,3226.6
+Poland                                            ,PL,2000,3146.1
+Poland                                            ,PL,2001,3630.6
+Poland                                            ,PL,2002,3776.2
+Poland                                            ,PL,2003,4150.3
+Poland                                            ,PL,2004,4778.6
+Poland                                            ,PL,2005,5896.4
+Poland                                            ,PL,2006,6619.4
+Poland                                            ,PL,2007,8589.1
+Poland                                            ,PL,2008,9349.4
+Poland                                            ,PL,2009,7903.8
+Poland                                            ,PL,2010,8790.2
+Poland                                            ,PL,2011,9455.4
+Poland                                            ,PL,2012,8986.8
+Poland                                            ,PL,2013,9275.7
+Poland                                            ,PL,2014,10345.2
+Poland                                            ,PL,2015,10212.8
+Poland                                            ,PL,2016,9164.2
+Poland                                            ,PL,2017,9870.7
+Poland                                            ,PL,2018,11596.2
+Portugal                                          ,PT,1990,1875.1
+Portugal                                          ,PT,1991,2115.4
+Portugal                                          ,PT,1992,2532.6
+Portugal                                          ,PT,1993,2192.2
+Portugal                                          ,PT,1994,2173.6
+Portugal                                          ,PT,1995,2670.1
+Portugal                                          ,PT,1996,2600.8
+Portugal                                          ,PT,1997,2388.7
+Portugal                                          ,PT,1998,2335.6
+Portugal                                          ,PT,1999,2406.5
+Portugal                                          ,PT,2000,2204.3
+Portugal                                          ,PT,2001,2324.8
+Portugal                                          ,PT,2002,2602.2
+Portugal                                          ,PT,2003,3109.8
+Portugal                                          ,PT,2004,3719.4
+Portugal                                          ,PT,2005,4039.3
+Portugal                                          ,PT,2006,4066.8
+Portugal                                          ,PT,2007,4366.2
+Portugal                                          ,PT,2008,4812.1
+Portugal                                          ,PT,2009,4949.7
+Portugal                                          ,PT,2010,4718.9
+Portugal                                          ,PT,2011,4904.4
+Portugal                                          ,PT,2012,4137.3
+Portugal                                          ,PT,2013,4724.1
+Portugal                                          ,PT,2014,4111.5
+Portugal                                          ,PT,2015,3565.4
+Portugal                                          ,PT,2016,3569.1
+Portugal                                          ,PT,2017,3646.5
+Portugal                                          ,PT,2018,4247.8
+Romania                                           ,RO,1990,1739
+Romania                                           ,RO,1991,1377.2
+Romania                                           ,RO,1992,831.6
+Romania                                           ,RO,1993,722.5
+Romania                                           ,RO,1994,936.7
+Romania                                           ,RO,1995,983.1
+Romania                                           ,RO,1996,874.5
+Romania                                           ,RO,1997,1074.8
+Romania                                           ,RO,1998,1254.2
+Romania                                           ,RO,1999,955.3
+Romania                                           ,RO,2000,935.6
+Romania                                           ,RO,2001,985.7
+Romania                                           ,RO,2002,1056.1
+Romania                                           ,RO,2003,1250.3
+Romania                                           ,RO,2004,1530.2
+Romania                                           ,RO,2005,1976
+Romania                                           ,RO,2006,2251.5
+Romania                                           ,RO,2007,2607.7
+Romania                                           ,RO,2008,3000.4
+Romania                                           ,RO,2009,2225.1
+Romania                                           ,RO,2010,2086.2
+Romania                                           ,RO,2011,2379.9
+Romania                                           ,RO,2012,2102.9
+Romania                                           ,RO,2013,2452.5
+Romania                                           ,RO,2014,2691.5
+Romania                                           ,RO,2015,2580.6
+Romania                                           ,RO,2016,2644.2
+Romania                                           ,RO,2017,3622.1
+Romania                                           ,RO,2018,4608.7
+Slovak Republic                                   ,SK,1990,266.9
+Slovak Republic                                   ,SK,1991,266.9
+Slovak Republic                                   ,SK,1992,266.9
+Slovak Republic                                   ,SK,1993,266.9
+Slovak Republic                                   ,SK,1994,300
+Slovak Republic                                   ,SK,1995,629.6
+Slovak Republic                                   ,SK,1996,641.6
+Slovak Republic                                   ,SK,1997,499.5
+Slovak Republic                                   ,SK,1998,397.6
+Slovak Republic                                   ,SK,1999,327.2
+Slovak Republic                                   ,SK,2000,342.3
+Slovak Republic                                   ,SK,2001,394
+Slovak Republic                                   ,SK,2002,440.1
+Slovak Republic                                   ,SK,2003,624.5
+Slovak Republic                                   ,SK,2004,711.3
+Slovak Republic                                   ,SK,2005,823.3
+Slovak Republic                                   ,SK,2006,911.4
+Slovak Republic                                   ,SK,2007,1139.2
+Slovak Republic                                   ,SK,2008,1411.7
+Slovak Republic                                   ,SK,2009,1350.3
+Slovak Republic                                   ,SK,2010,1137.7
+Slovak Republic                                   ,SK,2011,1064.8
+Slovak Republic                                   ,SK,2012,1020.2
+Slovak Republic                                   ,SK,2013,967.9
+Slovak Republic                                   ,SK,2014,997.7
+Slovak Republic                                   ,SK,2015,985.9
+Slovak Republic                                   ,SK,2016,1003
+Slovak Republic                                   ,SK,2017,1049.1
+Slovak Republic                                   ,SK,2018,1280.6
+Slovenia                                          ,SI,1990,281.4
+Slovenia                                          ,SI,1991,281.4
+Slovenia                                          ,SI,1992,281.4
+Slovenia                                          ,SI,1993,230.3
+Slovenia                                          ,SI,1994,237.9
+Slovenia                                          ,SI,1995,334.7
+Slovenia                                          ,SI,1996,330
+Slovenia                                          ,SI,1997,290.8
+Slovenia                                          ,SI,1998,301.1
+Slovenia                                          ,SI,1999,274.8
+Slovenia                                          ,SI,2000,222.4
+Slovenia                                          ,SI,2001,271.5
+Slovenia                                          ,SI,2002,327
+Slovenia                                          ,SI,2003,416.9
+Slovenia                                          ,SI,2004,493.2
+Slovenia                                          ,SI,2005,514.2
+Slovenia                                          ,SI,2006,608.8
+Slovenia                                          ,SI,2007,692.7
+Slovenia                                          ,SI,2008,829.4
+Slovenia                                          ,SI,2009,798.9
+Slovenia                                          ,SI,2010,772.1
+Slovenia                                          ,SI,2011,665.7
+Slovenia                                          ,SI,2012,543.5
+Slovenia                                          ,SI,2013,506.7
+Slovenia                                          ,SI,2014,486.2
+Slovenia                                          ,SI,2015,400.8
+Slovenia                                          ,SI,2016,449.2
+Slovenia                                          ,SI,2017,473.8
+Slovenia                                          ,SI,2018,529.5
+Spain                                             ,ES,1990,11695
+Spain                                             ,ES,1991,11680.3
+Spain                                             ,ES,1992,12250.2
+Spain                                             ,ES,1993,10041.5
+Spain                                             ,ES,1994,10092.7
+Spain                                             ,ES,1995,11439.9
+Spain                                             ,ES,1996,11294.3
+Spain                                             ,ES,1997,9865.9
+Spain                                             ,ES,1998,10333.4
+Spain                                             ,ES,1999,11113.7
+Spain                                             ,ES,2000,10273.8
+Spain                                             ,ES,2001,10222.1
+Spain                                             ,ES,2002,10270.8
+Spain                                             ,ES,2003,12880.5
+Spain                                             ,ES,2004,15262.5
+Spain                                             ,ES,2005,15997.7
+Spain                                             ,ES,2006,17252.2
+Spain                                             ,ES,2007,20065.7
+Spain                                             ,ES,2008,22227.7
+Spain                                             ,ES,2009,20178.3
+Spain                                             ,ES,2010,19710.8
+Spain                                             ,ES,2011,19695.4
+Spain                                             ,ES,2012,18860.6
+Spain                                             ,ES,2013,17243
+Spain                                             ,ES,2014,17178.5
+Spain                                             ,ES,2015,15188.9
+Spain                                             ,ES,2016,14014.4
+Spain                                             ,ES,2017,16043.5
+Spain                                             ,ES,2018,18248.3
+Sweden                                            ,SE,1990,6169.5
+Sweden                                            ,SE,1991,6219.5
+Sweden                                            ,SE,1992,6418.6
+Sweden                                            ,SE,1993,5011.2
+Sweden                                            ,SE,1994,5154.5
+Sweden                                            ,SE,1995,5729.8
+Sweden                                            ,SE,1996,6203.4
+Sweden                                            ,SE,1997,5203.2
+Sweden                                            ,SE,1998,5132.3
+Sweden                                            ,SE,1999,5148.7
+Sweden                                            ,SE,2000,4789.4
+Sweden                                            ,SE,2001,4128
+Sweden                                            ,SE,2002,4354.6
+Sweden                                            ,SE,2003,5305.6
+Sweden                                            ,SE,2004,5514.7
+Sweden                                            ,SE,2005,5518.5
+Sweden                                            ,SE,2006,5577.2
+Sweden                                            ,SE,2007,6386.2
+Sweden                                            ,SE,2008,6024.8
+Sweden                                            ,SE,2009,5063
+Sweden                                            ,SE,2010,5885.9
+Sweden                                            ,SE,2011,6324.7
+Sweden                                            ,SE,2012,6243.7
+Sweden                                            ,SE,2013,6528.7
+Sweden                                            ,SE,2014,6555.5
+Sweden                                            ,SE,2015,5387.1
+Sweden                                            ,SE,2016,5427.5
+Sweden                                            ,SE,2017,5526.6
+Sweden                                            ,SE,2018,5755.4
+United Kingdom                                    ,GB,1990,38943.8
+United Kingdom                                    ,GB,1991,42074.3
+United Kingdom                                    ,GB,1992,40774.9
+United Kingdom                                    ,GB,1993,34085.9
+United Kingdom                                    ,GB,1994,34493.5
+United Kingdom                                    ,GB,1995,34247.8
+United Kingdom                                    ,GB,1996,34490.9
+United Kingdom                                    ,GB,1997,35674.9
+United Kingdom                                    ,GB,1998,36866.3
+United Kingdom                                    ,GB,1999,36453.4
+United Kingdom                                    ,GB,2000,35254.8
+United Kingdom                                    ,GB,2001,35331.9
+United Kingdom                                    ,GB,2002,39659.5
+United Kingdom                                    ,GB,2003,46943
+United Kingdom                                    ,GB,2004,53970.3
+United Kingdom                                    ,GB,2005,55151.6
+United Kingdom                                    ,GB,2006,57483
+United Kingdom                                    ,GB,2007,65986.1
+United Kingdom                                    ,GB,2008,65619.5
+United Kingdom                                    ,GB,2009,57914.6
+United Kingdom                                    ,GB,2010,58082.8
+United Kingdom                                    ,GB,2011,60270.4
+United Kingdom                                    ,GB,2012,58495.7
+United Kingdom                                    ,GB,2013,56861.8
+United Kingdom                                    ,GB,2014,59182.9
+United Kingdom                                    ,GB,2015,53862.2
+United Kingdom                                    ,GB,2016,48118.9
+United Kingdom                                    ,GB,2017,46433.3
+United Kingdom                                    ,GB,2018,49997.2
