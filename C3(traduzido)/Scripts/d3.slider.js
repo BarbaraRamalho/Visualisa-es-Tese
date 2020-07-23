@@ -284,7 +284,7 @@ function slider(orientation, scale) {
     if (displayValue && value.length === 1) {
       handleEnter
         .append('text')
-        .attr('font-size', 10) // TODO: Remove coupling to font-size in d3-axis
+        .attr('font-size', 13) // TODO: Remove coupling to font-size in d3-axis
         .attr(y, k * 27)
         .attr(
           'dy',
